@@ -15,9 +15,3 @@ Back-end: NodeJS, ExpressJS.
 Database: MySQL, MongoDB
 
 Other knowledge: Object-oriented programming, data structures and algorithms, real-time, REST api, web security, version control system (Git) 
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
