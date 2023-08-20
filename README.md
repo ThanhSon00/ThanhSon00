@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**ThanhSon00/ThanhSon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Thanh Son! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Back-end Developer Intern. Studying at Ho Chi Minh University of Technology and Education as 4th-year student, I have learned and used NodeJS and ExpressJS for 8 months ...
+
+
+## 🛠 Skills
+
+Front-end: HTML, CSS, Javascript
+
+Back-end: NodeJS, ExpressJS.
+
+Database: MySQL, MongoDB
+
+Other knowledge: Object-oriented programming, data structures and algorithms, real-time, REST api, web security, version control system (Git) 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
